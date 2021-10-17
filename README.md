@@ -2,7 +2,7 @@
 
 https://mp.weixin.qq.com/s/1z32r2AWNHJYkfID9Ti4JA
 
-![Image text](https://img-blog.csdnimg.cn/7c093e92320a4af78213024db84d38c0.png)
+![Image text](https://pic1.zhimg.com/v2-868f5d2815069ffa36381e1febdca0f2_1440w.jpg?source=172ae18b)
 
 #### 介绍
 如今，短视频随处可见，通过短视频带货早已成了一股风气，也让一批人赚的盆满钵满。我们都知道，抖音短视频，一个爆的视频会有很多人评论，其实在同行的短视频下的这些评论中，就隐藏了你行业的精准客户。我们要做的，就是快速的找到这些客户。
@@ -12,23 +12,23 @@ https://mp.weixin.qq.com/s/1z32r2AWNHJYkfID9Ti4JA
 
 抖快客系统可以通过三种方式找到同行的潜在客户，分别是关键词监测、视频监测、主页监测。不管是哪一种，都是有共同的目的，就是要筛选出这些视频作品下的潜在客户。关键词监测，监测的是全网点赞高的同行业作品下的评论，视频监测，监测的是这一个视频下的评论，主页监测，监测的是这个作者下发的和你相关行业的短视频下的评论，而这些用需求词，比如【怎么买，怎么卖，链接，购买，电话等】来询问的评论者，就是你的精准客户。
 
-![Image text](https://img-blog.csdnimg.cn/cbbb86d0db1e4de6bb5b69f2be578832.png)
+![Image text](https://pic1.zhimg.com/80/v2-73c2dec56d239c35132ff7052e7bceb8_720w.jpg)
 
 关键词监测
 
 就是通过监测短视频作品的标题关键词和客户在评论区留言的关键词，快速筛选出这些客户。作品标题关键词其实就是你的相关行业名称，比如你是做二手车的，那你就可以监测作品标题含有【二手车】的视频，评论区关键词就是客户的需求表达，比如：多少钱、价格、怎么联系、电话、地址、能否上门等这些关键词。他们能这么问，说明他们有这个需求，然后有针对性的去联系这些人（怎么联系，往后看，重点在后面），成单率是非常大的，能省下很多时间去盲目的寻找客户。
 
-![Image text](https://img-blog.csdnimg.cn/87ed16ba4974456cbbe1defcf3cded26.png)
+![Image text](https://pic4.zhimg.com/80/v2-9f2584e656982f51d4b07afe51ed96d7_720w.jpg)
 
 关键词监测支持设置视频发布时间，评论咨询时间来筛选。
 
-![Image text](https://img-blog.csdnimg.cn/129ad195803e4045ae1868cec8c9212b.png)
+![Image text](https://pic4.zhimg.com/80/v2-7fb4b386aaa343b5e0bde872c607689b_720w.jpg)
 
 视频监测
 
 就是监测你同领域或同行的某一个视频作品，监测这个作品的评论区留言包含预先设置的关键词，来进行筛选潜在客户。最好是同行业的某个热门视频，对潜在客户进行截胡，这样好像挺不讲“武德”的，但是做生意嘛，谁先谁就赢。
 
-![Image text](https://img-blog.csdnimg.cn/e440a55fe40541a3b3a0dc1f8a86b6a9.png)
+![Image text](https://pic4.zhimg.com/80/v2-8b092fb1b8231e750672b5b6fec1ffcf_720w.jpg)
 
 视频监测只需要复制链接，系统会自动解析出视频的相关信息，比如视频标题，作者昵称，作者头像。同样支持设置评论咨询时间来筛选。
 
