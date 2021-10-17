@@ -2,7 +2,7 @@
 
 https://mp.weixin.qq.com/s/1z32r2AWNHJYkfID9Ti4JA
 
-![Image text](https://pic1.zhimg.com/v2-868f5d2815069ffa36381e1febdca0f2_1440w.jpg?source=172ae18b)
+![Image text](https://img-blog.csdnimg.cn/7c093e92320a4af78213024db84d38c0.png)
 
 #### 介绍
 如今，短视频随处可见，通过短视频带货早已成了一股风气，也让一批人赚的盆满钵满。我们都知道，抖音短视频，一个爆的视频会有很多人评论，其实在同行的短视频下的这些评论中，就隐藏了你行业的精准客户。我们要做的，就是快速的找到这些客户。
